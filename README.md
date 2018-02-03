@@ -7,9 +7,10 @@ FEWD assignment 1
 * Traveling  
 * Hiking  
 
-Here are some pictures of the city I visited:  
-![The city of Paris](http://freelargephotos.com/photos/000186/large.jpg)  
+Here is a picture of the city I visited:  
 
-If you like to learn more about the city of Paris visit the official website of [Paris tourist office](https://en.parisinfo.com/)
+![Paris the city of lights](https://raw.githubusercontent.com/zhub188/FEWD-a01/master/eiffel-tower-2000717_640.jpg)  
+
+If you like to learn more about the city of Paris visit the official website of [Paris tourist office](https://en.parisinfo.com/).
 
 
